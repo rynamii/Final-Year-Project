@@ -1,6 +1,18 @@
 # Third Year Project
 
+This repository serves as a copy, and possible extension, of my final year project.
 
+An exploration of methods to create a 3D hand-detection pipeline from scratch. The pipeline was created such that it can track a hand in a frame in real time.
+<br><br>
+
+The pipeline consists of three stages:
+<br>
+Hand-detection - detecting if a hand is in an image 
+<br>
+Keypoint detection - mapping "keypoints" of hand onto an image
+<br>
+Pose estimation - using the detected keypoints to pose a 3D model
+<br><br>
 
 ## Code Sourced
 
