@@ -1,5 +1,7 @@
 # Third Year Project
 
+## Background
+
 This repository serves as a copy, and possible extension, of my final year project.
 
 An exploration of methods to create a 3D hand-detection pipeline from scratch. The pipeline was created such that it can track a hand in a frame in real time.
@@ -13,6 +15,10 @@ Keypoint detection - mapping "keypoints" of hand onto an image
 <br>
 Pose estimation - using the detected keypoints to pose a 3D model
 <br><br>
+
+Dissertation report written about the project: [`3D Hand Tracking from an RGB Camera`](Extra_Files\Ryan_Karibwami_Report.pdf)
+
+Short video which briefly describes the project from concept to results: [`Screencast`](Extra_Files\Ryan_Karibwami_Screencast.mp4)
 
 ## Code Sourced
 
@@ -28,7 +34,7 @@ points_detector/config.py
 points_detector/BMC
 ```
 
-Code is take from the repository [`github.com/MengHao666/Hand-BMC-pytorch`](https://github.com/MengHao666/Hand-BMC-pytorch), which is an adapted version of the following paper, the code itself is not directly made by the authors of said paper.
+Code is taken from the repository [`github.com/MengHao666/Hand-BMC-pytorch`](https://github.com/MengHao666/Hand-BMC-pytorch), which is an adapted version of the following paper, the code itself is not directly made by the authors of said paper.
 ```
 @article{spurr2020weakly,
   title={Weakly supervised 3d hand pose estimation via biomechanical constraints},
