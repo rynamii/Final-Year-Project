@@ -16,9 +16,9 @@ Keypoint detection - mapping "keypoints" of hand onto an image
 Pose estimation - using the detected keypoints to pose a 3D model
 <br><br>
 
-Dissertation report written about the project: [`3D Hand Tracking from an RGB Camera`](Extra_Files\Ryan_Karibwami_Report.pdf)
+Dissertation report written about the project: [`3D Hand Tracking from an RGB Camera`](Extra_Files/Ryan_Karibwami_Report.pdf)
 
-Short video which briefly describes the project from concept to results: [`Screencast`](Extra_Files\Ryan_Karibwami_Screencast.mp4)
+Short video which briefly describes the project from concept to results: [`Screencast`](Extra_Files/Ryan_Karibwami_Screencast.mp4)
 
 ## Code Sourced
 
